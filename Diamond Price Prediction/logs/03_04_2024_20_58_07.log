@@ -1,0 +1,8 @@
+[ 2024-03-04 20:58:09,857 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-04 20:58:09,868 ] 96 werkzeug - INFO -  * Debugger PIN: 486-274-900
+[ 2024-03-04 20:58:17,431 ] 96 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 20:58:17] "GET / HTTP/1.1" 200 -
+[ 2024-03-04 20:58:20,267 ] 96 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 20:58:20] "[33mGET /ws/info?t=1709566100250 HTTP/1.1[0m" 404 -
+[ 2024-03-04 20:58:40,595 ] 66 root - INFO - Dataframe Gathered
+[ 2024-03-04 20:58:40,806 ] 96 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 20:58:40] "POST / HTTP/1.1" 200 -
+[ 2024-03-04 20:58:41,252 ] 96 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 20:58:41] "[33mGET /ws/info?t=1709566121240 HTTP/1.1[0m" 404 -
+[ 2024-03-04 20:59:11,783 ] 96 werkzeug - INFO -  * Detected change in 'E:\\crack-Dream-Data-Science-Job\\120Dayschallenge\\Day61\\Diamond Price Prediction\\setup.py', reloading

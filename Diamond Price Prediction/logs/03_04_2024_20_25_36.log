@@ -1,0 +1,6 @@
+[ 2024-03-04 20:25:37,799 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-04 20:25:37,817 ] 96 werkzeug - INFO -  * Debugger PIN: 486-274-900
+[ 2024-03-04 20:25:52,377 ] 96 werkzeug - INFO - 192.168.116.28 - - [04/Mar/2024 20:25:52] "GET / HTTP/1.1" 200 -
+[ 2024-03-04 20:25:54,226 ] 96 werkzeug - INFO - 192.168.116.28 - - [04/Mar/2024 20:25:54] "[33mGET /ws/info?t=1709564154218 HTTP/1.1[0m" 404 -
+[ 2024-03-04 20:25:54,896 ] 96 werkzeug - INFO - 192.168.116.28 - - [04/Mar/2024 20:25:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-03-04 20:26:06,435 ] 96 werkzeug - INFO -  * Detected change in 'E:\\Projects\\DiamondPricePrediction2\\DiamondPricePrediction2\\application.py', reloading
