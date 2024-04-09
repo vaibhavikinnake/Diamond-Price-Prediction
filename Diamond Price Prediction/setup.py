@@ -16,10 +16,10 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='Diamond Price Prediction',
+    name='Diamond Price Prediction Using Machine Learning',
     version='0.0.1',
-    author='Anil Rupnar',
-    author_email='anilrupnaroffice@gmail.com',
+    author='Vaibha Vikinnake',
+    author_email='vaibhavikinnake12@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 
