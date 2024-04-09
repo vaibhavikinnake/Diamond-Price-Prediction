@@ -46,11 +46,39 @@ Just execute this command & wait, it may take some time
 
 
 ```bash
-python app.py
+python application.py
 ```
 
+## STEP 04: 
+after run application.py 
 
-Yes!! Now you can start predicting 🙂
+```bash
+Example :
+(Diamond) D:\Diamond Price Prediction>python application.py
+ * Serving Flask app 'application'
+ * Debug mode: on
+
+```
+## STEP 05: 
+Go to the Log folder Let's check latest log file
+
+```bash
+Example :
+[ 2024-04-10 04:08:31,708 ] 96 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.81.28:5000
+[ 2024-04-10 04:08:31,708 ] 96 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-04-10 04:08:31,709 ] 96 werkzeug - INFO -  * Restarting with stat
+
+```
+## STEP 05: 
+
+```bash
+Example :
+click on  http://127.0.0.1:5000 then the output window will open 
+```
+
 
 
 ## Home Page
